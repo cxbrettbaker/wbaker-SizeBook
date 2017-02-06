@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/date"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/neck"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/neck"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/bust"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/bust"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/chest"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/chest"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/waist"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/waist"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/hip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hip"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/inseam"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/inseam"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/comment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/comment"
+        android:scrollbars="horizontal"
+        android:layout_weight="0.27" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="33dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.22">
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:onClick="cancelEntry"/>
+
+        <LinearLayout
+            android:layout_width="28dp"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/add_entry"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="@string/add_entry"
+            android:layout_weight="0.21"
+            android:onClick="addEntry"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

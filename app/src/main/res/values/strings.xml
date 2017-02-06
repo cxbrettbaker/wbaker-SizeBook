@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wbaker-SizeBook</string>
+    <string name="add">+</string>
+
+    <string name="detail_text">Enter Details</string>
+    <string name="name">Enter your name (required)</string>
+    <string name="date">Date (yyyy-mm-dd)</string>
+    <string name="neck">Neck circumference</string>
+    <string name="bust">Bust in inches</string>
+    <string name="chest">Chest in inches</string>
+    <string name="waist">Waist in inches</string>
+    <string name="hip">Hip in inches</string>
+    <string name="inseam">Inseam in inches</string>
+    <string name="comment">Comment</string>
+
+
+    <string name="add_entry">Add Entry</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="update_entry">Update Entry</string>
+    <string name="clear">Clear</string>
+
+</resources>

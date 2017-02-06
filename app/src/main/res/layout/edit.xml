@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/date"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_neck"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/neck"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_bust"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/bust"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_chest"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/chest"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_waist"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/waist"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_hip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hip"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_inseam"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/inseam"
+        android:scrollbars="horizontal" />
+
+    <EditText
+        android:id="@+id/edit_comment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/comment"
+        android:scrollbars="horizontal"
+        android:layout_weight="0.27" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="33dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.22">
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/edit_cancel"
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:onClick="cancelEdit"/>
+
+        <LinearLayout
+            android:layout_width="28dp"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/edit_add"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="@string/update_entry"
+            android:layout_weight="0.21"
+            android:onClick="addEdit"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Mon Feb 06 15:17:45 MST 2017
+base.0=C\:\\Users\\Brett\\Desktop\\3rd year resources\\CMPUT\\301\\Assignment 1\\SizeBook\\SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86cdf247cfcf7ae5723081a2d65e173d58b2fde9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Brett\\Desktop\\3rd year resources\\CMPUT\\301\\Assignment 1\\SizeBook\\SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d79bc577bc4e5070e24c12d316e629f433cc5fb6\\classes.dex
+base.1=C\:\\Users\\Brett\\Desktop\\3rd year resources\\CMPUT\\301\\Assignment 1\\SizeBook\\SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d79bc577bc4e5070e24c12d316e629f433cc5fb6
+file.0=C\:\\Users\\Brett\\Desktop\\3rd year resources\\CMPUT\\301\\Assignment 1\\SizeBook\\SizeBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86cdf247cfcf7ae5723081a2d65e173d58b2fde9\\classes.dex

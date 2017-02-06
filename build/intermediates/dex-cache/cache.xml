@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4be175dc98cf507becf6c2609e4867fa0a4aba">
+        <dex dex="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86cdf247cfcf7ae5723081a2d65e173d58b2fde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_e7612677b472abee0cebf468c43f8bfcdaaa4fee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brett\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_cd3aef73de13f29267d1ea84b68395718c55b3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brett\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_f717b98847915cce80ebcbc6935ff05a3f2dcd37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6a36dd79681661f743fe2fe7b0dbbb80566cdb12">
+        <dex dex="C:\Users\Brett\Desktop\3rd year resources\CMPUT\301\Assignment 1\SizeBook\SizeBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d79bc577bc4e5070e24c12d316e629f433cc5fb6\classes.dex" />
+    </item>
+
+</items>
